@@ -21,3 +21,17 @@ This is a simple calculator application built with Java Swing. The application p
 - Error handling for invalid inputs or division by zero.
 
 This project showcases the integration of Java Swing components with event handling, making it ideal for understanding GUI programming in Java.
+
+
+
+
+
+
+
+![PHOTO-2024-12-23-19-25-23](https://github.com/user-attachments/assets/93c81679-8139-422d-8767-df6fb98ade86)
+
+
+
+
+
+
